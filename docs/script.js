@@ -1,4 +1,3 @@
-'use strict';
 /* Another result of playing with curves to create an artistically interesting animation 
  * -------------------------------------------------------------------------------------- 
  * @date:      13th July, 2020  
